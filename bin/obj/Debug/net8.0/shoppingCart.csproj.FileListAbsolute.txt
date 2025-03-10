@@ -1,0 +1,12 @@
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\obj\Debug\net8.0\shoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\obj\Debug\net8.0\shoppingCart.AssemblyInfoInputs.cache
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\obj\Debug\net8.0\shoppingCart.AssemblyInfo.cs
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\obj\Debug\net8.0\shoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\obj\Debug\net8.0\shoppingCart.sourcelink.json
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\obj\Debug\net8.0\shoppingCart.dll
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\obj\Debug\net8.0\refint\shoppingCart.dll
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\obj\Debug\net8.0\shoppingCart.pdb
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\shoppingCart.deps.json
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\shoppingCart.dll
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\obj\Debug\net8.0\ref\shoppingCart.dll
+C:\Users\grees\OneDrive\Documents\DafnyShop\bin\shoppingCart.pdb
